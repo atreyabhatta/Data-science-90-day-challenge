@@ -1,0 +1,10 @@
+Day 3 - Pivot Tables
+
+Topics Covered:
+- Pivot Table basics
+- Grouping data
+- Summarizing with Sum/Count/Average
+- Pivot Charts
+
+# All  the tasks notes and exercises have been covered from Kelvin Stratvert's Youtube videos.
+Status: Completed
