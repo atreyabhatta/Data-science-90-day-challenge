@@ -1,0 +1,10 @@
+Day 4 - Power Query
+
+Topics Covered:
+- Importing data with Power Query
+- Cleaning and transforming data
+- Merging and appending queries
+- Removing duplicates and errors
+
+# All  the tasks notes and exercises have been covered from Kelvin Stratvert's Youtube videos.
+Status: Completed
