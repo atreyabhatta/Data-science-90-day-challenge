@@ -1,0 +1,11 @@
+Day 5 - Charts
+
+Topics Covered:
+- Column and Bar Charts
+- Line Charts
+- Pie Charts
+- Combo Charts
+- Chart formatting and labels
+
+# All  the tasks notes and exercises have been covered from Kelvin Stratvert's Youtube videos.
+Status: Completed
