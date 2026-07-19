@@ -1,0 +1,14 @@
+Day 6 - Descriptive Statistics
+
+Topics Covered:
+- Mean
+- Median
+- Mode
+- Range
+
+Practice:
+- Calculated manually on a 10-number dataset
+- Verified using Excel formulas (AVERAGE, MEDIAN, MODE.SNGL, MAX-MIN)
+- Applied on a real Kaggle dataset
+# learnt from khan academy: statistics and propability chapter (unit3 :mesuring centre in quantitative data)
+Status: Completed
