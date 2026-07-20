@@ -1,0 +1,13 @@
+Day 7 - Spread (Variance & Standard Deviation)
+
+Topics Covered:
+- Variance
+- Standard Deviation
+- Basic idea of probability distributions
+
+Practice:
+- Watched StatQuest: Mean, Variance and Standard Deviation
+- Watched StatQuest: Main Ideas behind Probability Distributions
+- Calculated Variance and Standard Deviation in Excel (VAR.S, STDEV.S)
+
+Status: Completed
