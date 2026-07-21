@@ -1,0 +1,15 @@
+Day 8 - Probability Basics
+
+Topics Covered:
+- Basic Theoretical Probability
+- Events and Outcomes
+- Sample Space
+- Basic Probability Formula (Favorable Outcomes / Total Outcomes)
+
+Practice:
+- Completed Khan Academy "Simple probability" exercise
+- Completed Khan Academy "Subsets of sample spaces" exercise
+- Solved basic probability problems (coin toss, dice roll, cards)
+- Simulated dice rolls in Excel using RANDBETWEEN
+
+Status: Completed
