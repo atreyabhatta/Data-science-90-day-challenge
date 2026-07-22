@@ -1,0 +1,14 @@
+Day 9 - Normal Distribution & Z-Scores
+
+Topics Covered:
+- Normal Distribution (Bell Curve)
+- Properties: symmetric, Mean = Median = Mode
+- 68-95-99.7 Rule
+- Z-Scores
+
+Practice:
+- Watched StatQuest: The Normal Distribution, Clearly Explained
+- Calculated Z-scores manually and using Excel (STANDARDIZE function)  (from Khan Academy)
+- Applied Z-score analysis on a real dataset to identify outliers
+
+Status: Completed
