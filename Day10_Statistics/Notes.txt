@@ -1,0 +1,18 @@
+Day 10 - Correlation & Sampling
+
+Topics Covered:
+- Scatterplots
+- Correlation coefficient (r)
+- Positive vs Negative correlation
+- Correlation vs Causation
+- Population vs Sample
+- Sampling techniques (Random, Stratified)
+- Sampling bias
+
+Practice:
+- Studied correlation vs causation examples
+- Calculated correlation coefficient in Excel using CORREL function
+- Reviewed different sampling methods and their use cases
+
+# Completed from Khan Academy
+Status: Completed
