@@ -1,0 +1,13 @@
+Day 11 - Hypothesis Testing Intro
+
+Topics Covered:
+- Null Hypothesis (H0) and Alternative Hypothesis (H1)
+- Basic concept of t-test
+- p-value concept and significance threshold (0.05)
+
+Practice:
+- Watched StatQuest: Hypothesis Testing and The Null Hypothesis
+- Worked through a real-life example (comparing two groups)
+- Understood when to reject or fail to reject the null hypothesis
+
+Status: Completed
