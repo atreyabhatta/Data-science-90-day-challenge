@@ -1,0 +1,14 @@
+Day 12 - Vectors & Matrices
+
+Topics Covered:
+- What is a vector (direction and magnitude)
+- Vector addition and subtraction
+- Scalar multiplication
+- Introduction to matrices
+
+Practice:
+- Watched 3Blue1Brown: Vectors, what even are they?
+- Solved vector addition/subtraction problems by hand
+- Verified calculations using NumPy in Python
+
+Status: Completed
