@@ -1,0 +1,14 @@
+Day 13 - Matrix Multiplication & Dot Product
+
+Topics Covered:
+- Linear transformations (intuition)
+- Dot Product
+- Matrix Multiplication as composition of transformations
+
+Practice:
+- Watched 3Blue1Brown: Linear transformations and matrices (Chapter 3)
+- Watched 3Blue1Brown: Matrix multiplication as composition (Chapter 4)
+- Solved dot product and matrix multiplication problems by hand
+- Verified calculations using NumPy (np.dot, np.matmul)
+
+Status: Completed
