@@ -1,0 +1,14 @@
+Day 14 - Eigenvalues & Eigenvectors
+
+Topics Covered:
+- What is an eigenvector (direction that doesn't change under transformation)
+- What is an eigenvalue (scaling factor)
+- Formula: A x v = lambda x v
+- Connection to PCA (Principal Component Analysis)
+
+Practice:
+- Watched 3Blue1Brown: Eigenvectors and eigenvalues (Chapter 14)
+- Calculated eigenvalues and eigenvectors using NumPy (np.linalg.eig)
+- Verified the eigenvalue equation (A x v = lambda x v) manually
+
+Status: Completed
