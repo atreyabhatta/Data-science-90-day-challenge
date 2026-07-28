@@ -1,0 +1,13 @@
+Day 15 - Derivatives
+
+Topics Covered:
+- What is a derivative (rate of change / slope)
+- Power rule for derivatives
+- Visual intuition using tangent lines
+
+Practice:
+- Watched 3Blue1Brown: The paradox of the derivative (Chapter 2)
+- Solved derivative problems by hand using the power rule
+- Verified calculations using SymPy in Python
+
+Status: Completed
