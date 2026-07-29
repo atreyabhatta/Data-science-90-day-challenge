@@ -1,0 +1,15 @@
+Day 16 - Partial Derivatives & Gradient
+
+Topics Covered:
+- Partial derivatives (derivative with respect to one variable, treating others as constant)
+- Gradient (vector of all partial derivatives)
+- Intuition: gradient points in direction of steepest ascent
+- Connection to Gradient Descent in ML
+
+Practice:
+- Watched 3Blue1Brown Essence of Calculus (relevant chapter)
+- Reviewed Khan Academy partial derivatives content
+- Solved partial derivative and gradient problems by hand
+- Verified calculations using SymPy in Python
+
+Status: Completed34  
