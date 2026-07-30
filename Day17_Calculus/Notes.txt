@@ -1,0 +1,13 @@
+Day 17 - Chain Rule
+
+Topics Covered:
+- Chain Rule formula for nested functions
+- Step-by-step application on examples
+- Connection to backpropagation in neural networks
+
+Practice:
+- Watched StatQuest: Gradient Descent, Step-by-Step
+- Solved chain rule problems by hand
+- Verified calculations using SymPy in Python
+
+Status: Completed
