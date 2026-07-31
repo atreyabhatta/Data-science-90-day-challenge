@@ -1,0 +1,14 @@
+Day 18 - SQL Basics
+
+Topics Covered:
+- SELECT statement
+- WHERE clause (filtering)
+- JOIN (combining tables)
+- GROUP BY (aggregation)
+- Subqueries
+
+Practice:
+- Practiced queries on Mode SQL Tutorial and W3Schools "Try it Yourself" editor
+- Wrote 5 custom queries combining SELECT, WHERE, JOIN, GROUP BY and subqueries
+
+Status: Completed
