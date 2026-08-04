@@ -1,0 +1,15 @@
+Day 19 - SQL Advanced (Window Functions & CTEs)
+
+Topics Covered:
+- Window Functions (OVER clause)
+- PARTITION BY
+- RANK() and ROW_NUMBER()
+- CTEs (Common Table Expressions) using WITH clause
+
+Practice:
+- Watched YouTube: SQL Window Functions in 10 Minutes
+- Watched YouTube tutorial on CTE (Common Table Expressions)
+- Practiced window functions and CTEs on W3Schools "Try it Yourself" editor
+- Solved 2 Easy-level SQL problems on LeetCode SQL 50
+
+Status: Completed
