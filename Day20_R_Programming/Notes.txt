@@ -1,0 +1,16 @@
+Day 20 - R Basics
+
+Topics Covered:
+- R and RStudio installation
+- Variables in R
+- Vectors (c() function)
+- Data frames
+- Basic functions (mean, sum)
+
+Practice:
+- Installed R and RStudio
+- Watched freeCodeCamp R Programming for Beginners (first 30-40 min)
+- Created variables, vectors and a data frame in RStudio console
+- Wrote and saved an R script with practice exercises
+
+Status: Completed
