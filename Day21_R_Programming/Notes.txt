@@ -1,0 +1,16 @@
+Day 21 - dplyr
+
+Topics Covered:
+- filter() - filtering rows
+- select() - choosing columns
+- mutate() - creating new columns
+- group_by() and summarize() - grouped aggregations
+- Pipe operator (%>%) for chaining operations
+
+Practice:
+- Installed and loaded dplyr package
+- Referenced RStudio dplyr cheat sheet
+- Created a sample data frame and practiced all 5 core functions
+- Practiced chaining multiple operations using the pipe operator
+
+Status: Completed
