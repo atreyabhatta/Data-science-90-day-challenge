@@ -1,0 +1,17 @@
+Day 22 - ggplot2
+
+Topics Covered:
+- ggplot2 grammar of graphics (ggplot + aes + geom)
+- Bar charts (geom_bar)
+- Scatter plots (geom_point)
+- Line charts (geom_line)
+- Titles, labels and themes
+
+Practice:
+- Installed and loaded ggplot2 package
+- Watched a ggplot2 tutorial for beginners
+- Created bar charts, scatter plots and line charts using sample data
+- Explored R Graph Gallery for additional chart examples
+- Customized charts with titles, labels and themes
+
+Status: Completed
