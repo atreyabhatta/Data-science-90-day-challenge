@@ -1,0 +1,17 @@
+Day 23 - tidyr + Cleaning
+
+Topics Covered:
+- Concept of tidy data
+- Detecting missing values (is.na)
+- Removing missing values (drop_na)
+- Filling missing values (replace_na, mean imputation)
+- Reshaping data with pivot_longer and pivot_wider
+
+Practice:
+- Installed and loaded tidyr package
+- Practiced handling missing values on sample data
+- Converted wide format data to long format using pivot_longer
+- Converted long format back to wide format using pivot_wider
+- Referenced RStudio tidyr official documentation
+
+Status: Completed
