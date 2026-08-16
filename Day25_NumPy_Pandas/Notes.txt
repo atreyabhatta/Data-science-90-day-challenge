@@ -1,0 +1,18 @@
+Day 25 - NumPy Basics
+
+Topics Covered:
+- NumPy arrays (1D and 2D)
+- Indexing
+- Slicing
+- Reshape
+- Broadcasting
+
+Practice:
+- Installed and imported NumPy
+- Created and indexed 1D and 2D arrays
+- Practiced slicing on arrays
+- Reshaped arrays into different dimensions
+- Applied broadcasting for element-wise operations
+- Referenced numpy.org official documentation
+
+Status: Completed
