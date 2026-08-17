@@ -1,0 +1,15 @@
+Day 26 - NumPy Advanced
+
+Topics Covered:
+- Vectorized operations (element-wise operations without loops)
+- Dot product (np.dot)
+- Matrix multiplication (np.matmul / @)
+- Common functions: sqrt, exp, log, sum, mean, max, min
+
+Practice:
+- Compared loop-based vs vectorized operations for performance understanding
+- Practiced dot product and matrix multiplication
+- Solved 20-25 exercises from NumPy 100 exercises (GitHub: rougier)
+- Applied vectorized functions on sample arrays
+
+Status: Completed
