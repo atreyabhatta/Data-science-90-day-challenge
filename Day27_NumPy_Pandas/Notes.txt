@@ -1,0 +1,16 @@
+Day 27 - Pandas Basics
+
+Topics Covered:
+- Series (1D data structure)
+- DataFrame (2D data structure)
+- read_csv (loading data from files)
+- .loc (label-based indexing)
+- .iloc (position-based indexing)
+
+Practice:
+- Completed Kaggle Pandas micro-course (Lessons 1-2)
+- Created Series and DataFrames from scratch
+- Loaded a CSV file using read_csv
+- Practiced selecting data using .loc and .iloc
+
+Status: Completed
