@@ -1,0 +1,14 @@
+Day 28 - Pandas Cleaning
+
+Topics Covered:
+- Detecting and handling missing values (isnull, dropna, fillna)
+- Detecting and removing duplicates (duplicated, drop_duplicates)
+- Data type conversion (astype, to_datetime)
+
+Practice:
+- Completed Kaggle Pandas Lesson 5: Data Types and Missing Values
+- Practiced missing value handling on a real messy dataset
+- Practiced duplicate detection and removal
+- Practiced data type conversions
+
+Status: Completed
