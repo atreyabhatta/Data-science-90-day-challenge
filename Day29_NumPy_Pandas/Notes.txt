@@ -1,0 +1,19 @@
+Day 29 - Pandas Groupby/Merge
+
+Topics Covered:
+- groupby() and aggregations (sum, mean, count)
+- sort_values()
+- merge() / join (inner, left, right, outer)
+- pivot_table()
+- Renaming columns
+- Combining data with concat()
+
+Practice:
+- Completed Kaggle Pandas Lesson 4: Grouping and Sorting
+- Completed Kaggle Pandas Lesson 6: Renaming and Combining
+- Practiced groupby aggregations on sample sales data
+- Practiced merging two related datasets
+- Created a pivot table
+- Referenced Pandas official documentation
+
+Status: Completed
