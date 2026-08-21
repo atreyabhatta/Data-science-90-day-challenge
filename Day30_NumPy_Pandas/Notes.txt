@@ -1,0 +1,16 @@
+Day 30 - Data Visualization: Matplotlib
+
+Topics Covered:
+- Line plots
+- Bar charts
+- Histograms
+- Scatter plots
+- Subplots
+
+Practice:
+- Watched Corey Schafer Matplotlib tutorial (Parts 1, 2, 6, 7, 10)
+- Created line, bar, histogram and scatter plots using sample data
+- Combined multiple charts using subplots
+- Referenced Matplotlib official gallery for additional examples
+
+Status: Completed
