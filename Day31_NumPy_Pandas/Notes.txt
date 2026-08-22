@@ -1,0 +1,15 @@
+Day 31 - Seaborn & Plotly
+
+Topics Covered:
+- Heatmap (correlation visualization)
+- Pairplot (multi-variable relationships)
+- Boxplot (distribution and outliers)
+- Interactive charts with Plotly Express
+
+Practice:
+- Installed and imported Seaborn and Plotly
+- Created heatmap, pairplot and boxplot using Titanic dataset
+- Created interactive scatter and bar charts using Plotly Express
+- Referenced Seaborn and Plotly Express official documentation
+
+Status: Completed
