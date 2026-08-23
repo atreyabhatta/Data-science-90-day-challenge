@@ -1,0 +1,21 @@
+Project 1 - EDA in Python
+
+Dataset Used: Titanic Dataset (Kaggle)
+
+Topics Applied:
+- Data loading (read_csv)
+- Data structure exploration (info, describe, shape)
+- Missing value handling (fillna with mean/median)
+- Grouped analysis (Pandas: groupby, agg)
+- Visualizations (Matplotlib/Seaborn: bar charts, histograms)
+
+Key Insights:
+- Females had a significantly higher survival rate than males
+- 1st class passengers had higher survival rate than 3rd class
+- Most passengers were between approximately 20 and 40 years old
+- Age alone did not show a clear survival pattern
+
+Note: Same dataset was earlier analyzed in R (see Day24_R_Programming 
+folder) for comparison between R and Python EDA workflows.
+
+Status: Completed
