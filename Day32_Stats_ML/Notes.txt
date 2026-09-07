@@ -1,0 +1,16 @@
+Day 32 - Stats with Python
+
+Topics Covered:
+- Summary statistics using scipy.stats (mean, median, std, variance)
+- stats.describe() for comprehensive summary
+- Z-scores using scipy.stats.zscore
+- Outlier detection using z-scores
+
+Practice:
+- Calculated summary statistics on sample data using scipy.stats
+- Computed z-scores manually and using scipy
+- Applied z-score analysis on the Titanic dataset (Age and Fare columns)
+- Identified outliers using the z-score method
+- Referenced scipy.stats official documentation
+
+Status: Completed
