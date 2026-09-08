@@ -1,0 +1,15 @@
+Day 33 - Probability Distributions
+
+Topics Covered:
+- Normal Distribution (simulation and plotting)
+- Binomial Distribution (simulation and plotting)
+- Poisson Distribution (simulation and plotting)
+
+Practice:
+- Watched StatQuest videos on Binomial and Poisson distributions
+- Simulated Normal distribution using np.random.normal and visualized with seaborn
+- Simulated Binomial distribution using np.random.binomial
+- Simulated Poisson distribution using np.random.poisson
+- Compared all three distributions side by side
+
+Status: Completed
