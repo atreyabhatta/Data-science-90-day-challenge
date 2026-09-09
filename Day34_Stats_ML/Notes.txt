@@ -1,0 +1,16 @@
+Day 34 - Hypothesis Testing (t-test, chi-square, ANOVA)
+
+Topics Covered:
+- t-test: comparing means of two groups
+- ANOVA: comparing means of three or more groups
+- Chi-square: testing relationships between categorical variables
+- When to use each test
+
+Practice:
+- Watched StatQuest videos on ANOVA and Chi-square test
+- Performed t-test on sample data using scipy.stats.ttest_ind
+- Performed ANOVA on sample data using scipy.stats.f_oneway
+- Performed chi-square test using scipy.stats.chi2_contingency
+- Applied t-test and chi-square test on the Titanic dataset
+
+Status: Completed
