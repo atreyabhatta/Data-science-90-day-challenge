@@ -1,0 +1,15 @@
+Day 35 - Correlation + Confidence Interval
+
+Topics Covered:
+- Pearson Correlation (linear relationship)
+- Spearman Correlation (rank-based relationship)
+- Confidence Interval calculation
+
+Practice:
+- Watched StatQuest: Pearson's Correlation
+- Watched StatQuest: Confidence Intervals
+- Calculated Pearson and Spearman correlation using scipy.stats
+- Calculated 95% Confidence Interval using scipy.stats.t.interval
+- Applied correlation and CI analysis on the Titanic dataset
+
+Status: Completed
