@@ -1,0 +1,15 @@
+Day 36 - CLT + Sampling
+
+Topics Covered:
+- Central Limit Theorem (CLT)
+- Effect of sample size on CLT
+- Simple random sampling
+- Stratified sampling
+
+Practice:
+- Watched StatQuest: The Central Limit Theorem
+- Simulated CLT using a non-normal population in Python
+- Observed how sample size affects the shape of sample mean distribution
+- Practiced random and stratified sampling on the Titanic dataset
+
+Status: Completed
