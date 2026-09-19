@@ -1,0 +1,32 @@
+Day 37 - Mini Project 2: A/B Test Analyzer
+
+Dataset Used: [Kaggle dataset ka naam yahan likho, jo use kiya]
+
+Objective:
+Analyze A/B test data to determine which version (A or B) performs 
+better, using hypothesis testing, and provide a business recommendation.
+
+Topics Applied:
+- Conversion rate calculation (groupby)
+- Chi-square test (categorical data - converted yes/no)
+- t-test (comparing groups)
+- Visualization (bar chart of conversion rates by group)
+
+Process:
+1. Loaded A/B test dataset
+2. Calculated conversion rates for Group A and Group B
+3. Performed Chi-square test to check statistical significance
+4. Visualized conversion rates using a bar chart
+5. Formulated a business recommendation based on results
+
+Key Findings:
+- Group A conversion rate: [apna actual number likho]
+- Group B conversion rate: [apna actual number likho]
+- P-value: [apna actual number likho]
+- [Significant difference thi ya nahi, wo likho]
+
+Business Recommendation:
+[Apna final recommendation likho - jaise: "Roll out Version B" 
+ya "No significant difference found, keep current version"]
+
+Status: Completed
