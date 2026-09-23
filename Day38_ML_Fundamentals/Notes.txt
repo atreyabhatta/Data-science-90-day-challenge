@@ -1,0 +1,32 @@
+Day 38 - ML Intro + Workflow
+
+Topics Covered:
+- What is Machine Learning?
+- Supervised Learning
+- Unsupervised Learning
+- Regression vs Classification
+- Features (X) and Target (y)
+- Train-test split
+- Training set vs Testing set
+
+Learning Resources:
+- YouTube videos on Machine Learning fundamentals
+- Scikit-learn documentation for train_test_split
+
+Practice:
+- Used the Titanic dataset
+- Selected Pclass, Age and Fare as features (X)
+- Selected Survived as the target (y)
+- Performed an 80/20 train-test split
+- Performed a 70/30 train-test split
+- Classified 5 real-world problems as supervised or unsupervised
+
+Key Learning:
+- Supervised learning uses labelled data.
+- Unsupervised learning works with unlabelled data.
+- X represents features/input variables.
+- y represents the target/output variable.
+- Training data is used to train a model.
+- Testing data is used to evaluate a model on unseen data.
+
+Status: Completed
