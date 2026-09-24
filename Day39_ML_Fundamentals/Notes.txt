@@ -1,0 +1,15 @@
+Day 39 - Linear Regression
+
+Topics Covered:
+- Linear Regression theory (best fit line, y = mx + c)
+- Cost function (Mean Squared Error)
+- Gradient descent (recap from Day 17)
+- Implementing Linear Regression using scikit-learn
+
+Practice:
+- Watched StatQuest: Linear Regression, Clearly Explained
+- Built a Linear Regression model on sample data using sklearn
+- Visualized the regression line
+- Applied Linear Regression on the Titanic dataset (Age vs Fare)
+
+Status: Completed
