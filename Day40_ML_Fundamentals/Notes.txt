@@ -1,0 +1,16 @@
+Day 40 - Regularization (Ridge & Lasso)
+
+Topics Covered:
+- Overfitting concept
+- Ridge Regression (L2 regularization)
+- Lasso Regression (L1 regularization)
+- Alpha parameter and its effect on model complexity
+
+Practice:
+- Watched StatQuest: Regularization Part 1 - Ridge (L2) Regression
+- Watched StatQuest: Regularization Part 2 - Lasso (L1) Regression
+- Implemented Ridge and Lasso regression using scikit-learn on the Titanic dataset
+- Compared coefficients and scores between Linear, Ridge and Lasso models
+- Tested different alpha values to observe effect on model performance
+
+Status: Completed
