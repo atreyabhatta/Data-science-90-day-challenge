@@ -1,0 +1,17 @@
+Day 41 - Logistic Regression
+
+Topics Covered:
+- Logistic Regression for classification
+- Sigmoid function
+- Confusion matrix (TP, TN, FP, FN)
+- Accuracy, Precision and Recall
+
+Practice:
+- Watched StatQuest: Logistic Regression
+- Watched StatQuest: Machine Learning Fundamentals - The Confusion Matrix
+- Watched StatQuest: Sensitivity, Specificity, Precision, Recall
+- Plotted the sigmoid function
+- Built a Logistic Regression model on the Titanic dataset to predict survival
+- Calculated confusion matrix, accuracy, precision and recall
+
+Status: Completed
