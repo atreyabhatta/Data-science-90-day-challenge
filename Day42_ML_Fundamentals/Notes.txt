@@ -1,0 +1,16 @@
+Day 42 - KNN + Naive Bayes
+
+Topics Covered:
+- K-Nearest Neighbors (KNN) algorithm
+- Effect of different K values on accuracy
+- Naive Bayes classifier (Bayes' Theorem based)
+
+Practice:
+- Watched StatQuest: K-nearest neighbors, Clearly Explained
+- Watched StatQuest: Naive Bayes, Clearly Explained
+- Implemented KNN classifier on the Titanic dataset using scikit-learn
+- Tested multiple K values to observe effect on accuracy
+- Implemented Naive Bayes classifier on the Titanic dataset
+- Compared accuracy across Logistic Regression, KNN and Naive Bayes
+
+Status: Completed
