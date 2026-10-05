@@ -1,0 +1,16 @@
+Day 43 - Decision Trees
+
+Topics Covered:
+- Decision Tree structure (root, branches, leaves)
+- Gini Impurity for splitting
+- Overfitting in decision trees and how max_depth controls it
+- Feature importance
+
+Practice:
+- Watched StatQuest: Decision and Classification Trees, Clearly Explained
+- Built a Decision Tree classifier on the Titanic dataset using scikit-learn
+- Visualized the tree structure
+- Tested different max_depth values to observe overfitting (train vs test accuracy)
+- Examined feature importance
+
+Status: Completed
