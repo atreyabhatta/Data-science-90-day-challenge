@@ -1,0 +1,18 @@
+Day 44 - Random Forest
+
+Topics Covered:
+- Bagging (Bootstrap Aggregating)
+- Random Forest algorithm (ensemble of decision trees)
+- Random Forest Classifier and Regressor
+- Effect of number of trees on accuracy
+- Feature importance
+
+Practice:
+- Watched StatQuest: Random Forests Part 1 - Building, Using and Evaluating
+- Built a Random Forest Classifier on the Titanic dataset using scikit-learn
+- Compared Random Forest accuracy with a single Decision Tree
+- Tested different numbers of trees (n_estimators)
+- Built a Random Forest Regressor to predict Fare
+- Examined feature importance
+
+Status: Completed
