@@ -1,0 +1,19 @@
+Day 45 - SVM (Support Vector Machines)
+
+Topics Covered:
+- Support Vector Machines (maximum margin classifier)
+- Support vectors
+- Kernel trick (Linear, Polynomial, RBF)
+- Effect of C parameter
+- Importance of feature scaling for SVM
+
+Practice:
+- Watched StatQuest: Support Vector Machines Main Ideas
+- Watched StatQuest: The Polynomial Kernel
+- Watched StatQuest: The Radial (RBF) Kernel
+- Built SVM classifiers on the Titanic dataset using scikit-learn
+- Compared linear, polynomial and RBF kernels
+- Tested different C values
+- Compared SVM with other classifiers from Days 41-44
+
+Status: Completed
